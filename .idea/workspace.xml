@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dde698c-3e42-45fe-a183-e31fb4feaffe" name="Default" comment="" />
+    <list default="true" id="1dde698c-3e42-45fe-a183-e31fb4feaffe" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -24,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="186">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -158,7 +162,7 @@
     <configuration name="closures.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="closures.js" working-dir="$PROJECT_DIR$" />
     <configuration name="correr.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="correr.js" working-dir="$PROJECT_DIR$" />
     <configuration name="goku_superman.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="goku_superman.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="index.js" working-dir="$PROJECT_DIR$" />
     <configuration name="platzom.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="platzom.js" working-dir="$PROJECT_DIR$" />
     <configuration name="puntosClass.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="puntosClass.js" working-dir="$PROJECT_DIR$" />
     <configuration name="puntosMetodo.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="puntosMetodo.js" working-dir="$PROJECT_DIR$" />
@@ -166,26 +170,25 @@
     <configuration name="scope.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="scope.js" working-dir="$PROJECT_DIR$" />
     <configuration name="this.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="this.js" working-dir="$PROJECT_DIR$" />
     <list size="12">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.this.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.puntosClass.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.puntosMetodo.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.puntos.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.scope.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.arrays.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.closures.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.platzom.js" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.correr.js" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.goku_superman.js" />
-      <item index="10" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="11" class="java.lang.String" itemvalue="Node.js.index.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.this.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.puntosClass.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.puntosMetodo.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.puntos.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.scope.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.arrays.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.closures.js" />
+      <item index="8" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.platzom.js" />
+      <item index="10" class="java.lang.String" itemvalue="Node.js.correr.js" />
+      <item index="11" class="java.lang.String" itemvalue="Node.js.goku_superman.js" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.goku_superman.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.correr.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.platzom.js" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.goku_superman.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.correr.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.platzom.js" />
       </list>
     </recent_temporary>
   </component>
@@ -225,12 +228,12 @@
       <workItem from="1516157720356" duration="1830000" />
       <workItem from="1516159568451" duration="1244000" />
       <workItem from="1516160833640" duration="3820000" />
-      <workItem from="1516201125091" duration="4347000" />
+      <workItem from="1516201125091" duration="4375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36237000" />
+    <option name="totallyTimeSpent" value="36265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="630" width="1366" height="738" extended-state="6" />
@@ -633,18 +636,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="186">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
         </state>
       </provider>
