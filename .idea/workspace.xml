@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="callAply.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/callAply.js">
+      <file leaf-file-name="callbacks.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/callbacks.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -54,6 +54,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/callAply.js" />
+        <option value="$PROJECT_DIR$/prueba.js" />
+        <option value="$PROJECT_DIR$/cine.js" />
+        <option value="$PROJECT_DIR$/callbacks.js" />
       </list>
     </option>
   </component>
@@ -108,8 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,16 +122,19 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JavaScript 1.6" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.callAply.js">
+  <component name="RunManager" selected="Node.js.prueba.js">
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/index.html" />
     <configuration name="arrays.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="arrays.js" working-dir="$PROJECT_DIR$" />
     <configuration name="callAply.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="callAply.js" working-dir="$PROJECT_DIR$" />
@@ -152,7 +156,7 @@
     <configuration name="correr.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="correr.js" working-dir="$PROJECT_DIR$" />
     <configuration name="goku_superman.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="goku_superman.js" working-dir="$PROJECT_DIR$" />
     <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="index.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="platzom.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="platzom.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="prueba.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/callbacks.js" working-dir="$PROJECT_DIR$" />
     <configuration name="puntosClass.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="puntosClass.js" working-dir="$PROJECT_DIR$" />
     <configuration name="puntosMetodo.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="puntosMetodo.js" working-dir="$PROJECT_DIR$" />
     <configuration name="puntos.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="puntos.js" working-dir="$PROJECT_DIR$" />
@@ -168,18 +172,18 @@
       <item index="6" class="java.lang.String" itemvalue="Node.js.arrays.js" />
       <item index="7" class="java.lang.String" itemvalue="Node.js.closures.js" />
       <item index="8" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.platzom.js" />
-      <item index="10" class="java.lang.String" itemvalue="Node.js.correr.js" />
-      <item index="11" class="java.lang.String" itemvalue="Node.js.goku_superman.js" />
-      <item index="12" class="java.lang.String" itemvalue="Node.js.callAply.js" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.correr.js" />
+      <item index="10" class="java.lang.String" itemvalue="Node.js.goku_superman.js" />
+      <item index="11" class="java.lang.String" itemvalue="Node.js.callAply.js" />
+      <item index="12" class="java.lang.String" itemvalue="Node.js.prueba.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.callAply.js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.goku_superman.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.correr.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.platzom.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.prueba.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.callAply.js" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.goku_superman.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.correr.js" />
       </list>
     </recent_temporary>
   </component>
@@ -220,12 +224,13 @@
       <workItem from="1516159568451" duration="1244000" />
       <workItem from="1516160833640" duration="3820000" />
       <workItem from="1516201125091" duration="5515000" />
-      <workItem from="1516422675392" duration="86000" />
+      <workItem from="1516422675392" duration="588000" />
+      <workItem from="1516632313790" duration="4346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37491000" />
+    <option name="totallyTimeSpent" value="42339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1080" extended-state="4" />
@@ -234,9 +239,9 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33229166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27244258" sideWeight="0.271875" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17695473" sideWeight="0.278125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17972831" sideWeight="0.728125" order="2" side_tool="false" content_ui="tabs" x="980" y="408" width="940" height="264" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17695473" sideWeight="0.721875" order="2" side_tool="false" content_ui="tabs" x="980" y="408" width="940" height="264" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -263,21 +268,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/puntosMetodo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/puntosClass.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -546,13 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arrays.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/closures.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -595,14 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/this.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -625,10 +600,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/callAply.js">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrays.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callAply.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callbacks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>
