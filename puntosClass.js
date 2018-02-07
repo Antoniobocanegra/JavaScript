@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 class Punto {
     constructor(x, y) {
         this.x = x
